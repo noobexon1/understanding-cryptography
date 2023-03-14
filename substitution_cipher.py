@@ -34,4 +34,4 @@ def encrypt(plaintext, substitution_table):
 
     return cipher
 
-# TODO: create decrypt() and implement the cracking technics
+
